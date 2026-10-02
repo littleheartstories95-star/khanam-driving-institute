@@ -1,0 +1,6 @@
+{
+  "name": "Khanam Driving Institute",
+  "description": "Professional driving lessons exclusively for women in Malir Model Colony, Karachi. Learn manual and automatic driving with experienced female instructors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
